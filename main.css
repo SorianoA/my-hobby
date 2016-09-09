@@ -1,0 +1,14 @@
+body {
+    background-color: #66ffff;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size:  45px;
+}
+
+p {
+    font-family: 'Lobster', cursive; ;
+    font-size: 20px;
+}
